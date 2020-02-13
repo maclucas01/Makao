@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T15:48:39.196Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="5u1zpq3OIjmiwEsJ3hAv" version="12.7.0" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-13T15:52:32.760Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="EW5rjWQ3gfHANHt0wB2C" version="12.7.0" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Wydanie_kart_podarunkowych">
     <mxGraphModel dx="3673" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,9 +229,6 @@
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-8" value="Wybór produktów do zwrotu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
           <mxGeometry x="500" y="40" width="150" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="aJ-1mmedl58X8cv3v2Ib-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
-          <mxGeometry x="2490" y="50" width="40" height="40" as="geometry"/>
-        </mxCell>
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-12" value="Towar do zwrócenia z dowodem zakupu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
           <mxGeometry x="25" y="10" width="110" height="30" as="geometry"/>
         </mxCell>
@@ -259,18 +256,6 @@
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-28" value="Nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
           <mxGeometry x="1210" y="50" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="aJ-1mmedl58X8cv3v2Ib-31" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
-          <mxGeometry x="1800" y="50" width="40" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="aJ-1mmedl58X8cv3v2Ib-32" value="Czy wydawane są karty MM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
-          <mxGeometry x="1775" y="20" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="aJ-1mmedl58X8cv3v2Ib-33" value="Nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
-          <mxGeometry x="1910" y="30" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="aJ-1mmedl58X8cv3v2Ib-34" value="Tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
-          <mxGeometry x="1800" y="110" width="90" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aJ-1mmedl58X8cv3v2Ib-3" source="aJ-1mmedl58X8cv3v2Ib-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1290" y="160" as="targetPoint"/>
@@ -279,14 +264,11 @@
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-36" value="Skanowanie kart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
           <mxGeometry x="1050" y="130" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="aJ-1mmedl58X8cv3v2Ib-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="aJ-1mmedl58X8cv3v2Ib-3" source="aJ-1mmedl58X8cv3v2Ib-70">
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="aJ-1mmedl58X8cv3v2Ib-3" source="aJ-1mmedl58X8cv3v2Ib-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="160" as="sourcePoint"/>
-            <mxPoint x="1620" y="160" as="targetPoint"/>
+            <mxPoint x="1580" y="160" as="targetPoint"/>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aJ-1mmedl58X8cv3v2Ib-39" value="Wydanie kart i możliwość wydrukowania formularza wydania&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
-          <mxGeometry x="2400" y="15" width="250" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-63" value="Czy klient zwraca karty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
           <mxGeometry x="1065" y="15" width="90" height="20" as="geometry"/>
@@ -302,8 +284,23 @@
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-70" value="Weryfikacja salda końcowego" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
           <mxGeometry x="1290" y="130" width="150" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aJ-1mmedl58X8cv3v2Ib-3" source="aJ-1mmedl58X8cv3v2Ib-71" target="aJ-1mmedl58X8cv3v2Ib-72">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-71" value="Akceptacja podsumowania zwrotu wraz z możliwością wydruku" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
-          <mxGeometry x="1620" y="130" width="150" height="60" as="geometry"/>
+          <mxGeometry x="1580" y="130" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-72" value="Przyjęcie zwracanych towarów/kart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-3">
+          <mxGeometry x="1840" y="130" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="aJ-1mmedl58X8cv3v2Ib-3" source="aJ-1mmedl58X8cv3v2Ib-17" target="aJ-1mmedl58X8cv3v2Ib-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="240" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="840" y="210"/>
+              <mxPoint x="1365" y="210"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-40" value="WWS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-0">
           <mxGeometry x="20" y="270" width="3400" height="300" as="geometry"/>
@@ -366,6 +363,21 @@
         </mxCell>
         <mxCell id="aJ-1mmedl58X8cv3v2Ib-59" value="Zwrot towaru i&amp;nbsp;&lt;div&gt;&lt;span&gt;wydanie kart możliwy jedynie na podstawie dowodu zakupu&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-40">
           <mxGeometry x="470" y="105" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aJ-1mmedl58X8cv3v2Ib-40" source="aJ-1mmedl58X8cv3v2Ib-75" target="aJ-1mmedl58X8cv3v2Ib-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-75" value="Korekta do dowodu zakupu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-40">
+          <mxGeometry x="1840" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-40">
+          <mxGeometry x="2090" y="130" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-39" value="Przyjęty zwrot towaru" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aJ-1mmedl58X8cv3v2Ib-40">
+          <mxGeometry x="1970" y="90" width="250" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="aJ-1mmedl58X8cv3v2Ib-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aJ-1mmedl58X8cv3v2Ib-0" source="aJ-1mmedl58X8cv3v2Ib-72" target="aJ-1mmedl58X8cv3v2Ib-75">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
