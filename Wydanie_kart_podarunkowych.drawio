@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-13T15:07:33.519Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="AYVwhcGo5I5V3UY53tVP" version="12.7.0" type="github">
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1102" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="www.draw.io" modified="2020-02-13T15:08:30.595Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="HGkO3I1tWFmoh5ZIzTyt" version="12.7.0" type="github" pages="2">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Wydanie_kart_podarunkowych">
+    <mxGraphModel dx="3673" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -194,6 +194,14 @@
         <mxCell id="409IC2wqUijx9iHw1cHA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="409IC2wqUijx9iHw1cHA-31" target="409IC2wqUijx9iHw1cHA-37" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GnnmoCE38soAa-BMovuD" name="Page-2">
+    <mxGraphModel dx="1102" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="E1e1udzU2NYnG-Tqe7Uk-0"/>
+        <mxCell id="E1e1udzU2NYnG-Tqe7Uk-1" parent="E1e1udzU2NYnG-Tqe7Uk-0"/>
       </root>
     </mxGraphModel>
   </diagram>
