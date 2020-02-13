@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T16:00:30.290Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="LOVynmgHGdps3Ykeadbu" version="12.7.0" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-13T16:11:30.302Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="IuALsEtp-hst6v_sXR6u" version="12.7.0" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Wydanie_kart_podarunkowych">
     <mxGraphModel dx="3673" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GnnmoCE38soAa-BMovuD" name="Zwrot towaru">
-    <mxGraphModel dx="3673" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="E1e1udzU2NYnG-Tqe7Uk-0"/>
         <mxCell id="E1e1udzU2NYnG-Tqe7Uk-1" parent="E1e1udzU2NYnG-Tqe7Uk-0"/>
@@ -383,7 +383,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="14BNiXalXkfgaH6DNNCg" name="Zwrot kart podarunkowych">
-    <mxGraphModel dx="4408" dy="2344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Q3HaUlyF_24f9CXrzwNF-0"/>
         <mxCell id="Q3HaUlyF_24f9CXrzwNF-1" parent="Q3HaUlyF_24f9CXrzwNF-0"/>
@@ -399,78 +399,34 @@
         <mxCell id="RtQA_A2j0GXgfbw-HXAz-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
           <mxGeometry x="60" y="50" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-6" value="Wprowadzenie ręczne lub skanowanie dowodu zakupu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-6" target="RtQA_A2j0GXgfbw-HXAz-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-6" value="Wyszukanie kart podarunkowych podlegających zwrotowi" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
           <mxGeometry x="180" y="40" width="140" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-8" target="RtQA_A2j0GXgfbw-HXAz-11">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="70" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-8" value="Wybór produktów do zwrotu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-8" value="Zwrot kart" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
           <mxGeometry x="500" y="40" width="150" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-9" value="Towar do zwrócenia z dowodem zakupu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-9" value="Karty do zwrócenia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
           <mxGeometry x="25" y="10" width="110" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-11" target="RtQA_A2j0GXgfbw-HXAz-16">
+        <mxCell id="i0m4qNM3hOa7QtEbdcsD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="Ml_fKkbXmoFH5daGFgBI-0" target="i0m4qNM3hOa7QtEbdcsD-0">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-11" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="820" y="50" width="40" height="40" as="geometry"/>
+        <mxCell id="Ml_fKkbXmoFH5daGFgBI-0" value="Akceptacja podsumowania zwrotu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
+          <mxGeometry x="820" y="40" width="150" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-12" value="Czy klient musi zwrócić karty podarunkowe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="795" y="15" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-13" value="Tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="910" y="50" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-14" value="Nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="830" y="125" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-16" target="RtQA_A2j0GXgfbw-HXAz-19">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-16" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
+        <mxCell id="i0m4qNM3hOa7QtEbdcsD-0" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
           <mxGeometry x="1090" y="50" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-17" value="Nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="1210" y="50" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1290" y="160" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-19" value="Skanowanie kart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="1050" y="130" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="160" as="sourcePoint"/>
-            <mxPoint x="1580" y="160" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-21" value="Czy klient zwraca karty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="1065" y="15" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-22" value="Tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="1080" y="90" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1358.04" y="131.01999999999998" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-24" value="Weryfikacja salda końcowego" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          <mxGeometry x="1290" y="130" width="150" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-11" target="RtQA_A2j0GXgfbw-HXAz-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="240" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="840" y="210"/>
-              <mxPoint x="1365" y="210"/>
-            </Array>
-          </mxGeometry>
+        <mxCell id="i0m4qNM3hOa7QtEbdcsD-1" value="Zwrot zakończony" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
+          <mxGeometry x="1060" y="20" width="110" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
