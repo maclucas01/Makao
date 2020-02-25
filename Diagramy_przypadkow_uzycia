@@ -1,5 +1,5 @@
-<mxfile host="www.draw.io" modified="2020-02-25T15:03:27.265Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="bHsgEvR938sftxVXzYNN" version="12.7.4" type="github">
-  <diagram id="ltGS3k4eyWjb2Fub80PH" name="Wyszukanie_karty_podarunkowej">
+<mxfile host="www.draw.io" modified="2020-02-25T15:28:17.678Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="9w8FucBgND9_4sfdAbIz" version="12.7.4" type="github" pages="2">
+  <diagram id="ltGS3k4eyWjb2Fub80PH" name="Transfer_kart">
     <mxGraphModel dx="1102" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -69,6 +69,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FWU2yDEH7z8yHpDsncP7-28" value="extend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NPbluE7KaeTSHo7_CRtg" name="Zwrot_kart_do_centrali">
+    <mxGraphModel dx="1102" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="nkSvo-IehQDcsUvZoVcU-0" />
+        <mxCell id="nkSvo-IehQDcsUvZoVcU-1" parent="nkSvo-IehQDcsUvZoVcU-0" />
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-0" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="nkSvo-IehQDcsUvZoVcU-1">
+          <mxGeometry x="60" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="AaZNAaaQyPVVbsBHteOL-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;container=1;recursiveResize=0;" vertex="1" parent="nkSvo-IehQDcsUvZoVcU-1">
+            <mxGeometry x="160" y="90" width="600" height="370" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-2" value="Wyszukanie kart" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;treeMoving=1;" vertex="1" parent="AaZNAaaQyPVVbsBHteOL-1">
+          <mxGeometry x="40" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-3" value="Makao" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AaZNAaaQyPVVbsBHteOL-1">
+          <mxGeometry x="325" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="AaZNAaaQyPVVbsBHteOL-1" source="AaZNAaaQyPVVbsBHteOL-5" target="AaZNAaaQyPVVbsBHteOL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-5" value="Wybór kart" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;treeMoving=1;" vertex="1" parent="AaZNAaaQyPVVbsBHteOL-1">
+          <mxGeometry x="240" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="AaZNAaaQyPVVbsBHteOL-1" source="AaZNAaaQyPVVbsBHteOL-7" target="AaZNAaaQyPVVbsBHteOL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-7" value="Zwrot kart do centrali" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;treeMoving=1;" vertex="1" parent="AaZNAaaQyPVVbsBHteOL-1">
+          <mxGeometry x="430" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-14" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AaZNAaaQyPVVbsBHteOL-1">
+          <mxGeometry x="180" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-15" value="extend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AaZNAaaQyPVVbsBHteOL-1">
+          <mxGeometry x="380" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="nkSvo-IehQDcsUvZoVcU-1" source="AaZNAaaQyPVVbsBHteOL-0" target="AaZNAaaQyPVVbsBHteOL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AaZNAaaQyPVVbsBHteOL-20" value="extend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nkSvo-IehQDcsUvZoVcU-1">
           <mxGeometry x="540" y="230" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
