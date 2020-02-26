@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T13:22:47.602Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="z9pX2WAvcpZQKfD0C5dU" version="12.7.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-26T13:23:53.131Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="m8X3JImuQP2ikW1dHAsD" version="12.7.6" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Wydanie_kart_podarunkowych">
     <mxGraphModel dx="2204" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,100 +386,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="14BNiXalXkfgaH6DNNCg" name="Zwrot kart podarunkowych">
-    
-    <mxGraphModel dx="1296" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      
+    <mxGraphModel dx="1102" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        
         <mxCell id="Q3HaUlyF_24f9CXrzwNF-0" />
-        
         <mxCell id="Q3HaUlyF_24f9CXrzwNF-1" parent="Q3HaUlyF_24f9CXrzwNF-0" />
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-0" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="Q3HaUlyF_24f9CXrzwNF-1">
-          
-          <mxGeometry x="100" y="150" width="1720" height="320" as="geometry" />
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-0" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="Q3HaUlyF_24f9CXrzwNF-1" vertex="1">
+          <mxGeometry x="100" y="150" width="1220" height="320" as="geometry" />
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-3" value="Makao" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-0">
-          
-          <mxGeometry x="20" width="1700" height="320" as="geometry" />
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-3" value="Makao" style="swimlane;html=1;startSize=20;horizontal=0;" parent="RtQA_A2j0GXgfbw-HXAz-0" vertex="1">
+          <mxGeometry x="20" width="1200" height="320" as="geometry" />
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-5" target="RtQA_A2j0GXgfbw-HXAz-6">
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-5" target="RtQA_A2j0GXgfbw-HXAz-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-5" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="RtQA_A2j0GXgfbw-HXAz-3" vertex="1">
           <mxGeometry x="60" y="50" width="40" height="40" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-6" target="RtQA_A2j0GXgfbw-HXAz-8">
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-6" target="RtQA_A2j0GXgfbw-HXAz-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-6" value="Wyszukanie kart podarunkowych podlegających zwrotowi" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-6" value="Wyszukanie kart podarunkowych podlegających zwrotowi" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="RtQA_A2j0GXgfbw-HXAz-3" vertex="1">
           <mxGeometry x="180" y="40" width="140" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-8">
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RtQA_A2j0GXgfbw-HXAz-3" source="RtQA_A2j0GXgfbw-HXAz-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            
             <mxPoint x="820" y="70" as="targetPoint" />
-            
           </mxGeometry>
-          
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-8" value="Zwrot kart" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-8" value="Zwrot kart" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="RtQA_A2j0GXgfbw-HXAz-3" vertex="1">
           <mxGeometry x="500" y="40" width="150" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="RtQA_A2j0GXgfbw-HXAz-9" value="Karty do zwrócenia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          
+        <mxCell id="RtQA_A2j0GXgfbw-HXAz-9" value="Karty do zwrócenia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RtQA_A2j0GXgfbw-HXAz-3" vertex="1">
           <mxGeometry x="25" y="10" width="110" height="30" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="i0m4qNM3hOa7QtEbdcsD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtQA_A2j0GXgfbw-HXAz-3" source="Ml_fKkbXmoFH5daGFgBI-0" target="i0m4qNM3hOa7QtEbdcsD-0">
-          
+        <mxCell id="i0m4qNM3hOa7QtEbdcsD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RtQA_A2j0GXgfbw-HXAz-3" source="Ml_fKkbXmoFH5daGFgBI-0" target="i0m4qNM3hOa7QtEbdcsD-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="Ml_fKkbXmoFH5daGFgBI-0" value="Akceptacja podsumowania zwrotu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          
+        <mxCell id="Ml_fKkbXmoFH5daGFgBI-0" value="Akceptacja podsumowania zwrotu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="RtQA_A2j0GXgfbw-HXAz-3" vertex="1">
           <mxGeometry x="820" y="40" width="150" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="i0m4qNM3hOa7QtEbdcsD-0" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          
+        <mxCell id="i0m4qNM3hOa7QtEbdcsD-0" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="RtQA_A2j0GXgfbw-HXAz-3" vertex="1">
           <mxGeometry x="1090" y="50" width="40" height="40" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="i0m4qNM3hOa7QtEbdcsD-1" value="Zwrot zakończony" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RtQA_A2j0GXgfbw-HXAz-3">
-          
+        <mxCell id="i0m4qNM3hOa7QtEbdcsD-1" value="Zwrot zakończony" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="RtQA_A2j0GXgfbw-HXAz-3" vertex="1">
           <mxGeometry x="1060" y="20" width="110" height="20" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
